@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-size: 30px;
+}
+.upper{
+    border: 50px;
+    width: 60%;
+    padding: 20px;
+    background-color:dimgrey;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.guesssubmit{
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+    font-weight: bolder;
+}
+.guessfield{
+    width: 17%;
+    height:40px;
+
+}
